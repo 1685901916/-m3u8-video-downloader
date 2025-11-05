@@ -305,15 +305,15 @@ conda install -c conda-forge pycryptodome
 
 ## 📞 联系方式
 
-- 📮 Issues: [GitHub Issues](https://github.com/yourusername/m3u8-downloader/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/m3u8-downloader/discussions)
+- 📮 Issues: [GitHub Issues](https://github.com/1685901916/xiaoetech_downloader/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/1685901916/xiaoetech_downloader/discussions)
 - 🌐 博客: [ayano29.cn](https://ayano29.cn)
 
 ---
 
 ## 📝 相关文章
 
-- [下载已购小鹅通视频 - 完整教程](https://ayano29.cn) - 详细的技术实现和使用指南
+- [下载已购小鹅通视频 - 完整教程](https://ayano29.cn/posts/programming/xiaoe-downloader/) - 详细的技术实现和使用指南
 
 ---
 
@@ -327,7 +327,7 @@ conda install -c conda-forge pycryptodome
 
 **Made with ❤️**
 
-[🌐 博客](https://ayano29.cn) | [⬆ 回到顶部](#-m3u8视频下载器)
+[🌐 博客文章](https://ayano29.cn/posts/programming/xiaoe-downloader/) | [⬆ 回到顶部](#-m3u8视频下载器)
 
 </div>
 
