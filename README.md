@@ -82,7 +82,7 @@ pip install pycryptodome --user
 
 ## 📝 相关文章
 
-📖 [**下载已购小鹅通视频 - 完整教程**](http://ayano29.cn/posts/programming/xiaoe-downloader/)  
+📖 [**下载已购小鹅通视频 - 完整教程**](https://ayano29.cn/posts/programming/xiaoe-downloader/)  
 详细的技术实现和使用指南
 
 ---
@@ -97,7 +97,7 @@ MIT License - 查看 [LICENSE](LICENSE) 了解详情
 
 **如果这个项目对你有帮助，欢迎 Star ⭐ 支持！**
 
-[🌐 博客文章](http://ayano29.cn/posts/programming/xiaoe-downloader/) | [⬆ 回到顶部](#-小鹅通已购视频下载器)
+[🌐 博客文章](https://ayano29.cn/posts/programming/xiaoe-downloader/) | [⬆ 回到顶部](#-小鹅通已购视频下载器)
 
 </div>
 
