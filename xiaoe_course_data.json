@@ -1,0 +1,239 @@
+{
+  "course_info": {
+    "name": "AI一人公司实战营",
+    "total_chapters": 28,
+    "quality": "超清(f421218)",
+    "collected_at": "2024-11-01",
+    "source_url": "https://apphbr65cqj1035.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/camp_pro/course_34PUIpEODDAYh1wSXbsxsj3pu1l?l_program=xe_know_pc"
+  },
+  "courses": [
+    {
+      "chapter": 1,
+      "title": "01课-初识软件：人类早期驯服PS和AI的珍贵录像",
+      "duration": "33分钟02秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/ef579b751397757891165452790/drm/v.f421218.m3u8?sign=2eb022a7a9289c457b015a0ff5a7c91f&t=69064bad&us=FBrmfRqDLR",
+      "quality": "超清",
+      "file_id": "ef579b751397757891165452790"
+    },
+    {
+      "chapter": 2,
+      "title": "02课-工具和图层：做设计就像烙大饼？带你认识PS里的图层基础逻辑",
+      "duration": "34分钟13秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/72c8072b1397757891160609322/drm/v.f421218.m3u8?sign=cb58bfa4c6158a6a416f5d766d1ea127&t=69064d7f&us=UhRohkNuqW",
+      "quality": "超清",
+      "file_id": "72c8072b1397757891160609322"
+    },
+    {
+      "chapter": 3,
+      "title": "03课-自由变换：掰直变弯，化圆为方的魔力",
+      "duration": "40分钟27秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/f102d0b71397757891158750456/drm/v.f421218.m3u8?sign=d5a7e043f2e66b9402a46e4b4c9331f5&t=69064daf&us=ddoweicMOo",
+      "quality": "超清",
+      "file_id": "f102d0b71397757891158750456"
+    },
+    {
+      "chapter": 4,
+      "title": "加餐-01快速上手ps，三个小技巧",
+      "duration": "21分钟37秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/2fccae0a1397757891159129010/drm/v.f421218.m3u8?sign=b4e68b77640d0bb4a941a567f9a1f29a&t=69064dde&us=ZiJlGHJiTX",
+      "quality": "超清",
+      "file_id": "2fccae0a1397757891159129010"
+    },
+    {
+      "chapter": 5,
+      "title": "04课-文字基础：如何优雅地在PS里打字？",
+      "duration": "46分钟35秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/ff3b353a1397757891162077849/drm/v.f421218.m3u8?sign=b0e3480f6e08b2c3076f9abab51a7aea&t=69064e30&us=IBziHrKJiu",
+      "quality": "超清",
+      "file_id": "ff3b353a1397757891162077849"
+    },
+    {
+      "chapter": 6,
+      "title": "05课-图层样式：让图层支棱起来的秘密！",
+      "duration": "48分钟13秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/03d01fd01397757891162261772/drm/v.f421218.m3u8?sign=392468d197847503c4a2870cfe8f2dad&t=69064e5d&us=lxzEGnMiNt",
+      "quality": "超清",
+      "file_id": "03d01fd01397757891162261772"
+    },
+    {
+      "chapter": 7,
+      "title": "加餐02- 拾色器",
+      "duration": "20分钟45秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/0b09bd3c1397757891162598807/drm/v.f421218.m3u8?sign=e416762ee9a78cbd277b30092fb1d0f8&t=69064e8b&us=fxHVyVdbbp",
+      "quality": "超清",
+      "file_id": "0b09bd3c1397757891162598807"
+    },
+    {
+      "chapter": 8,
+      "title": "06课 · 选区工具：花式抠图全攻略！",
+      "duration": "39分钟12秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/4ead19b01397757891163194541/drm/v.f421218.m3u8?sign=67b7b98b96cdf50064b795b26c32d062&t=69064ec0&us=OlCKdHbKZX",
+      "quality": "超清",
+      "file_id": "4ead19b01397757891163194541"
+    },
+    {
+      "chapter": 9,
+      "title": "07课-蒙版功能：随意穿插，体会空间感的魅力所在！",
+      "duration": "44分钟59秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/992d5b281397757891164073041/drm/v.f421218.m3u8?sign=ccd3c261c41ff93425df5442f459029e&t=69064eee&us=thlLDnOwaz",
+      "quality": "超清",
+      "file_id": "992d5b281397757891164073041"
+    },
+    {
+      "chapter": 10,
+      "title": "加餐03-次世代抠图",
+      "duration": "21分钟36秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/4ead1dd21397757891163194633/drm/v.f421218.m3u8?sign=f057b43843d985536c33566738f21997&t=69064f19&us=incrtnLmVI",
+      "quality": "超清",
+      "file_id": "4ead1dd21397757891163194633"
+    },
+    {
+      "chapter": 11,
+      "title": "08-形状和路径：圈圈圆圆，见识PS里的最强工具",
+      "duration": "48分钟46秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/4ead19721397757891163194525/drm/v.f421218.m3u8?sign=91cadbb5624a14ff3e2339e506058700&t=69064f32&us=QDwhqGDuHX",
+      "quality": "超清",
+      "file_id": "4ead19721397757891163194525"
+    },
+    {
+      "chapter": 12,
+      "title": "09-图像调整：一节课，搞懂PS后期调色",
+      "duration": "50分钟11秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/c2946b581397757891161776194/drm/v.f421218.m3u8?sign=28f22aa25802022a132ccc1b0209eeb3&t=69064f56&us=XcizSpBsoY",
+      "quality": "超清",
+      "file_id": "c2946b581397757891161776194"
+    },
+    {
+      "chapter": 13,
+      "title": "10-混合模式：一键实现双重曝光，混合模式怎么玩？",
+      "duration": "41分钟24秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/ff3c2fb01397757891162079108/drm/v.f421218.m3u8?sign=9106bc1037ad1c9e70cabd637be87e14&t=69064f94&us=OupasPVCXk",
+      "quality": "超清",
+      "file_id": "ff3c2fb01397757891162079108"
+    },
+    {
+      "chapter": 14,
+      "title": "11课-滤镜效果：你想要的艺术风格，PS里全都有！",
+      "duration": "49分钟12秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/ff3a97911397757891162076427/drm/v.f421218.m3u8?sign=56ed16e484ac967604fb426c8ffe5f98&t=69064fb2&us=taSkYCImhE",
+      "quality": "超清",
+      "file_id": "ff3a97911397757891162076427"
+    },
+    {
+      "chapter": 15,
+      "title": "12-液化修颜：动动鼠标，美颜瘦身，其实非常简单",
+      "duration": "42分钟16秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/03d365b81397757891162267666/drm/v.f421218.m3u8?sign=0a9c1f6e534cb8857aaa89312f7501ee&t=69064fd6&us=vayrrGMOjG",
+      "quality": "超清",
+      "file_id": "03d365b81397757891162267666"
+    },
+    {
+      "chapter": 16,
+      "title": "13-矢量编辑：了解AI里的矢量世界",
+      "duration": "39分钟51秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/72c807521397757891160609338/drm/v.f421218.m3u8?sign=2865a702d3cd91c3ade3f4d1fee37742&t=69064fe7&us=osGqOlHfrg",
+      "quality": "超清",
+      "file_id": "72c807521397757891160609338"
+    },
+    {
+      "chapter": 17,
+      "title": "14- 图形绘制：用AI画画，其实一点都不难！",
+      "duration": "49分钟20秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/11d01f361397757891162863446/drm/v.f421218.m3u8?sign=1a85c92d46df98b32acc65117d59297a&t=69065008&us=vrwkxVbGUd",
+      "quality": "超清",
+      "file_id": "11d01f361397757891162863446"
+    },
+    {
+      "chapter": 18,
+      "title": "15-变换与混合：突破想象力框架的视觉艺术",
+      "duration": "42分钟05秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/3bd089c21397757891159678844/drm/v.f421218.m3u8?sign=79e2c2647760f4890fa6e20896d53418&t=6906503e&us=RYLhzMSrUv",
+      "quality": "超清",
+      "file_id": "3bd089c21397757891159678844"
+    },
+    {
+      "chapter": 19,
+      "title": "16-封套与网格：一起扭一扭？让你的设计独具创意",
+      "duration": "34分钟51秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/adbfc2b41397757891164914085/drm/v.f421218.m3u8?sign=af0eb5b2039c414e0ec108271e9689a2&t=69065059&us=ECxKkkZoWh",
+      "quality": "超清",
+      "file_id": "adbfc2b41397757891164914085"
+    },
+    {
+      "chapter": 20,
+      "title": "17- 效果与三维：轻松做3D！AI里的酷炫视觉效果",
+      "duration": "53分钟15秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/01a03cb71397757891162183677/drm/v.f421218.m3u8?sign=812fe377e8cdc0e282c4183484593b37&t=69065071&us=vYHwmYAgoM",
+      "quality": "超清",
+      "file_id": "01a03cb71397757891162183677"
+    },
+    {
+      "chapter": 21,
+      "title": "18 -渐变和蒙版：设计多姿多彩、虚实结合的秘密所在",
+      "duration": "40分钟47秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/ef579e931397757891165452806/drm/v.f421218.m3u8?sign=afcd703242561a1057e6d5ceff0a3169&t=69065088&us=AGnQcmEGeo",
+      "quality": "超清",
+      "file_id": "ef579e931397757891165452806"
+    },
+    {
+      "chapter": 22,
+      "title": "19-平面海报设计：三步搞定一张酷炫现代潮流海报",
+      "duration": "48分钟05秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/03d3586e1397757891162267323/drm/v.f421218.m3u8?sign=95f380a3011f138a54ce874413a62c0e&t=690650a4&us=aiERtNktTD",
+      "quality": "超清",
+      "file_id": "03d3586e1397757891162267323"
+    },
+    {
+      "chapter": 23,
+      "title": "20-Banner设计：一秒互联网！扁平简约风设计",
+      "duration": "47分钟42秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/f40267301397757891165653323/drm/v.f421218.m3u8?sign=77925770869ca3f08c4564c8f4b131fc&t=690650bf&us=eIdMDhZzDn",
+      "quality": "超清",
+      "file_id": "f40267301397757891165653323"
+    },
+    {
+      "chapter": 24,
+      "title": "21-杂志排版设计：高端大气上档次？排版欧美风杂志内页",
+      "duration": "44分钟58秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/01b09e4a1397757891162190216/drm/v.f421218.m3u8?sign=8dd485897b7cf3cd71bc5cbfa2dbc166&t=69065102&us=NXnTBrkvOm",
+      "quality": "超清",
+      "file_id": "01b09e4a1397757891162190216"
+    },
+    {
+      "chapter": 25,
+      "title": "22_视觉合成设计：学做产品海报，电商都在用的合成技巧",
+      "duration": "51分钟12秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/ef5702591397757891165451498/drm/v.f421218.m3u8?sign=1c5b0cfc2e3eeff1b3db0066ef00827d&t=69065118&us=ZeHmIYxvjy",
+      "quality": "超清",
+      "file_id": "ef5702591397757891165451498"
+    },
+    {
+      "chapter": 26,
+      "title": "23-Logo设计：为自己设计一套品牌标识和周边吧！",
+      "duration": "42分钟56秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/75ad67fb1397757891160788366/drm/v.f421218.m3u8?sign=f7e0710e83bf125b9c2fd5e304bc36c5&t=69065139&us=QnfQbUPWGF",
+      "quality": "超清",
+      "file_id": "75ad67fb1397757891160788366"
+    },
+    {
+      "chapter": 27,
+      "title": "24_ 动态海报设计：如何用PS+AI合力打造动态视觉？",
+      "duration": "50分钟37秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/e63a56b91397757891165084676/drm/v.f421218.m3u8?sign=1fb1267fba473da1f7b098fee252b28b&t=69065153&us=sSImQPtgKM",
+      "quality": "超清",
+      "file_id": "e63a56b91397757891165084676"
+    },
+    {
+      "chapter": 28,
+      "title": "PS+AI先导",
+      "duration": "03分钟26秒",
+      "m3u8_url": "https://encrypt-k-vod.xet.tech/9764a7a5vodtransgzp1252524126/03d0b3eb1397757891162262910/drm/v.f421218.m3u8?sign=ab53990ac21f2e0024ba3088dcf1f278&t=69065171&us=rJbZKanfbg",
+      "quality": "超清",
+      "file_id": "03d0b3eb1397757891162262910"
+    }
+  ]
+}
+
+
+
+

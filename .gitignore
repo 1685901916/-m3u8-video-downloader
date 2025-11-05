@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Specific
+downloads/
+downloads_old_*/
+temp/
+temp_*/
+ffmpeg/
+ffmpeg-*/
+*.zip
+*.msi
+*.log
+
+# Node modules
+node_modules/
+
+# Build files
+*.spec
+build/
+dist/
+
+# Temporary files
+temp_segments/
+*.ts
+filelist.txt
+
+
